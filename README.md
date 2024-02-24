@@ -1,7 +1,5 @@
 # TerraNostraRoleplay.
 
-Tyzer é gay
-
 
 ```
 ## Link do Mapa que usei: https://gta5mod.net/gta-5-mods/maps/mlo-gta-iv-burgershot-interior-sp-fivem-v2-0/
